@@ -1,0 +1,17 @@
+{
+  "name": "lego-it",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^1.4.2"
+  },
+  "devDependencies": {
+    "should": "^7.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "ADoyle",
+  "license": "ISC"
+}
